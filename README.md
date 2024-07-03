@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/your-username/react-first-project.git
+    git clone https://github.com/AbdullahThatsIt/react-first-project.git
     ```
 
 2. Navigate to the project directory:
